@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+    font-size: 32px;
+}
+
+.viggos_arbtrary_targeted_class_name {
+    color: red;
+}
